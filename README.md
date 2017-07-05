@@ -1,6 +1,8 @@
 # SwiftWorkshop
 3 day Swift Workshop
 
+## Topics 
+
 Hello World
 
 Installing Swift on Linux
